@@ -1,7 +1,13 @@
 public class Hobby {
     public static void main(String[] args) {
-        displayTraineeHobbyA();
+        //displayTraineeHobbyA();
         displayTraineeHobbyB();
-        displayTraineeHobbyC();
+        //displayTraineeHobbyC();
+    }
+
+    public static void displayTraineeHobbyB() {
+        System.out.println("Trainee B’s Hobbies:");
+        System.out.println("Trainee B’s Foods:");
     }
 }
+
